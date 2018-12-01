@@ -1,0 +1,930 @@
+*{
+	margin: 0px;
+}
+.startpage{
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	background-size: 100%100%;
+	width: 100%;
+	height: 100%;
+}
+.startIcon{
+	position: fixed;
+	top: 62.9%;
+	left: 18%;
+	width: 10.2%;
+	height: 10.2%;
+}
+.bg1{
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	background-size: 100%100%;
+	width: 100%;
+	height: 100%;
+}
+.Icon1{
+	position: fixed;
+	top: 53.8%;
+	left: 66.4%;
+	width: 21.7%;
+	height:9.9%;
+}
+.title{
+	position: fixed;
+	top: 20%;
+	left: 12.3%;
+	font-family:"迷你简魏碑";
+	font-size: 4.1vw;
+	margin: 0 auto;   
+    writing-mode: vertical-rl;/*从左向右 从右向左是 writing-mode: vertical-rl;*/  
+    /*writing-mode: tb-lr;*/
+    column-gap: 5vw;
+}
+.Icon2{
+	position: fixed;
+	top: 3.3%;
+	left: 5.6%;
+	width: 12.7%;
+	height: 25.2%;
+	text-align: center;
+}
+.Icon3{
+	position: fixed;
+	top: 3.3%;
+	left: 41.1%;
+	width: 12.7%;
+	height: 25.2%;
+}
+.Icon4{
+	position: fixed;
+	top: 15.6%;
+	left: 24%;
+	width: 12.7%;
+	height: 25.2%;
+}
+.Icon5{
+	position: fixed;
+	top: 31.3%;
+	left: 5.6%;
+	width: 12.7%;
+	height: 25.2%;
+}
+.Icon6{
+	position: fixed;
+	top: 31.3%;
+	left: 40.9%;
+	width: 12.7%;
+	height: 25.2%;
+}
+.label{
+	font-family:"迷你简魏碑";
+	font-size: 7vw;
+	margin: 0 auto;   
+    writing-mode: vertical-rl;/*从左向右 从右向左是 writing-mode: vertical-rl;*/  
+    /*writing-mode: tb-lr;*/
+    /*column-gap: 2%;*/
+}
+.label1{
+	position: fixed;
+	top: 9%;
+	left: 9.2%;
+}
+.label2{
+	position: fixed;
+	top: 9%;
+	left: 44.8%;
+}
+.label3{
+	position: fixed;
+	top: 19%;
+	left: 27.5%;
+}
+.label4{
+	position: fixed;
+	top: 37.3%;
+	left: 9.5%;
+}
+.label5{
+	font-family:"迷你简魏碑";
+	font-size: 6.2vw;
+	margin: 0 auto;   
+    writing-mode: vertical-rl;
+	position: fixed;
+	top: 34%;
+	left: 45%;
+}
+.goonIcon{
+	position: fixed;
+	top: 0%;
+	right: 0%;
+	width: 30%;
+	height: 6.8%;
+	}
+.title2{
+	position: fixed;
+	top: 18.3%;
+	left: 58.3%;
+	font-family:"迷你简魏碑";
+	font-size: 4.3vw;
+	margin: 0 auto;   
+    writing-mode: vertical-rl;/*从左向右 从右向左是 writing-mode: vertical-rl;*/  
+    /*writing-mode: tb-lr;*/
+    /*	column-gap: 2%;*/
+}
+.text1{
+	position: fixed;
+	left: 89.5%;
+}
+.text2{
+	position: fixed;
+	left: 81.9%;
+}
+.text3{
+	position: fixed;
+	left: 73.9%;
+}
+.text4{
+	position: fixed;
+	left: 66.1%;
+}
+.text5{
+	position: fixed;
+	left: 58.1%;
+}
+.bg2{
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	background-size: 100%100%;
+	width: 100%;
+	height: 100%;
+}  		
+.returnIcon1{
+	position: fixed;
+	top: 88%;
+	left:3.5%;
+	width:22% ;
+	height:11.6%;
+
+}
+.pic1{
+	position: fixed;
+	top:5.4%; 
+	left:13.1%;
+	width:73.7%;
+	height:30%;
+	isplay:inline-block;
+}
+.wulin{
+	position: fixed;
+	top: 34.5%;
+	left: 18.8%;
+	font-family:"汉仪尚巍手书W";
+	font-size: 8vh;
+	margin: 0 auto;   
+}
+.tuandui{
+	position: fixed;
+	top: 46.3%;
+	left: 32.7%;
+	font-family:"迷你简魏碑";
+	font-size: 6vw;
+	margin: 0 auto;
+}
+.intro1{
+	position: fixed;
+	top: 53.3%;
+	left: 7.5%;
+	font-family:"迷你简魏碑";
+	font-size: 5.3vw;
+	line-height: 5vh;
+	margin: 0 auto;
+}
+.pic2{
+	position: fixed;
+	top: 9.4%;
+	left:33%;
+	width:39.5% ;
+	height:22.4%;
+}
+.riyue{
+	position: fixed;
+	top: 34%;
+	left: 21%;
+	font-family:"汉仪尚巍手书W";
+	font-size: 12vw;
+	letter-spacing: 5.5vw;
+	margin: 0 auto;   
+}
+.yiban{
+	position: fixed;
+	top: 43.6%;
+	left: 37.5%;
+	font-family:"迷你简魏碑";
+	font-size: 6vw;
+	margin: 0 auto;
+}
+.intro2{
+	position: fixed;
+	top: 51.3%;
+	left: 5.8%;
+	font-family:"迷你简魏碑";
+	font-size: 5.3vw;
+	line-height: 4vh;
+	margin: 0 auto;
+}
+/*.pic3{
+	position: fixed;
+	top: 0%;
+	left:35.7%;
+	width:40.2% ;
+	height:21%;
+}*/
+.pic4{
+	position: fixed;
+	top: 0%;
+	left:33.1%;
+	width:31.4% ;
+	height:30.7%;
+}
+.guangming{
+	position: fixed;
+	top: 32%;
+	left: 27.9%;
+	font-family:"汉仪尚巍手书W";
+	font-size: 11.4vw;
+	letter-spacing: 5.7vw;
+	margin: 0 auto;   
+}
+.yingyong{
+	position: fixed;
+	top: 42%;
+	left: 32.7%;
+	font-family:"迷你简魏碑";
+	font-size: 5.4vw;
+	margin: 0 auto;
+}
+.intro3{
+	position: fixed;
+	top: 48%;
+	left: 6.1%;
+	font-family:"迷你简魏碑";
+	font-size: 5vw;
+	line-height: 4vh;
+	margin: 0 auto;
+}
+.bg3{
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	background-size: 100%100%;
+	width: 100%;
+	height: 100%;
+}
+.pic6{
+	position: fixed;
+	top: 11%;
+	left: 27%;
+	width:44.9%;
+	height: 19%;
+}
+.pic7{
+	position: fixed;
+	bottom:0%;
+	left: 0%;
+	width: 27.3%;
+	height: 13.2%;
+}
+.gushan{
+	position: fixed;
+	top: 34%;
+	left: 27%;
+	font-family:"汉仪尚巍手书W";
+	font-size: 6.8vh;
+	letter-spacing: 6.7vw;
+	margin: 0 auto;   
+}
+.jishu{
+	position: fixed;
+	top: 43.2%;
+	left: 30.5%;
+	font-family:"迷你简魏碑";
+	font-size: 5.5vw;
+	margin: 0 auto;
+}
+.intro4{
+	position: fixed;
+	top: 49.2%;
+	left: 7.5%;
+	font-family:"迷你简魏碑";
+	font-size: 5.3vw;
+	line-height: 4.4vh;
+	margin: 0 auto;
+}
+.bg4{
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	background-size: 100%100%;
+	width: 100%;
+	height: 100%;
+}
+.pic9{
+	position: fixed;
+	top: 11%;
+	left: 23.2%;
+	width:49.2%;
+	height:24.9% ;
+}
+.pic10{
+	position: fixed;
+	bottom:0%;
+	left: 0%;
+	width:23.2%;
+	height:13.2%;
+}
+.gumu{
+	position: fixed;
+	top: 37%;
+	left: 26%;
+	font-family:"汉仪尚巍手书W";
+	font-size: 6.8vh;
+	letter-spacing: 5.6vw;
+	margin: 0 auto;   
+}
+.wangmei{
+	position: fixed;
+	top: 47.2%;
+	left: 29%;
+	font-family:"迷你简魏碑";
+	font-size: 6vw;
+	margin: 0 auto;
+}
+.intro5{
+	position: fixed;
+	top: 53%;
+	left: 7.5%;
+	font-family:"迷你简魏碑";
+	font-size: 5.3vw;
+	line-height: 4.4vh;
+	margin: 0 auto;
+}
+.content1{
+	position: fixed;
+	top: 20.1%;
+	left: 9.4%;
+	width: 82.2%;
+	height: 39.8%;
+}
+.iconContent{
+	font-family: "迷你简魏碑";
+	font-size: 4.8vw;
+	letter-spacing: 1.3vw;
+}
+.iconTitle{
+	font-family: "迷你简魏碑";
+	font-size: 3.7vw;
+	writing-mode: vertical-rl;
+}
+.icon1{
+	position: fixed;
+	top: 17.2%;
+	left: 7.8%;
+	width:18.1%;
+	height:10.4%;
+}
+.icon1Content{
+	position: fixed;
+	top: 21.1%;
+	left: 8.6%;
+}
+.icon1Title{
+	position: fixed;
+	top: 28.5%;
+	left: 15%;
+}
+.icon2{
+	position: fixed;
+	top: 17.2%;
+	left: 40.9%;
+	width:18.1%;
+	height:10.4%;
+}
+.icon2Content{
+	position: fixed;
+	top: 21.1%;
+	left: 41.9%;
+}
+.icon2Title{
+	position: fixed;
+	top: 28.5%;
+	left: 48%;
+}
+.icon3{
+	position: fixed;
+	top: 17.2%;
+	left: 73.6%;
+	width:18.1%;
+	height:10.4%;
+}
+.icon3Content{
+	position: fixed;
+	top: 21.1%;
+	left: 71%;
+}
+.icon3Title{
+	position: fixed;
+	top: 28%;
+	left: 81%;
+}
+.icon4{
+	position: fixed;
+	top: 44.6%;
+	left: 40.9%;
+	width:18.1%;
+	height:10.4%;
+}
+.icon4Content{
+	position: fixed;
+	top: 48.5%;
+	left: 38%;
+}
+.icon4Title{
+	position: fixed;
+	top: 55.9%;
+	left: 48.3%;
+}
+.icon5{
+	position: fixed;
+	top: 44.6%;
+	left: 73.6%;
+	width:18.1%;
+	height:10.4%;
+}
+.icon5Content{
+	position: fixed;
+	top: 48.5%;
+	left: 74.7%;
+}
+.icon5Title{
+	position: fixed;
+	top: 55.9%;
+	left: 81.6%;
+}
+.chose{
+	position: fixed;
+	top: 20.2%;
+	left: 13.9%;
+	width: 74.8.%;
+	height: 46.7%;
+}
+.bg4{
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	background-size: 100%100%;
+	width: 100%;
+	height: 100%;
+}
+.border1{
+	position: fixed;
+	top: 13.5%;
+	left: 8.2%;
+	width: 83.6%;
+	height: 29%;
+	border:2px solid darkslategray;
+    border-radius:30px;
+}
+.border1Content{
+	position: fixed;
+	top: 22.9%;
+	left: 14%;
+	font-family: "迷你简魏碑";
+	font-size: 5.8vw;
+	line-height: 5vh;
+}
+.border2{
+	position: fixed;
+	top: 49.6%;
+	left: 14.2%;
+	width: 67.8%;
+	height: 13%;
+}
+.border2Title{
+	position: fixed;
+	top: 54.5%;
+	left: 39.5%;
+	font-family: "迷你简魏碑";
+	font-size: 5.3vw;
+}
+.border3{
+	position: fixed;
+	top: 61.1%;
+	left: 14.2%;
+	width: 67.8%;
+	height: 13%;
+}
+.border3Title{
+	position: fixed;
+	top: 65.8%;
+	left: 39.5%;
+	font-family: "迷你简魏碑";
+	font-size: 5.3vw;
+}
+.button{
+	position: fixed;
+	top: 79.8%;
+	left: 40.9%;
+	width: 17.2%;
+	height: 10.1%;
+}
+.buttonTitle{
+	position: fixed;
+	top: 80.7%;
+	left: 33%;
+	width: 31.9%;
+	height: 7.5%;
+}
+.buttonContent{
+	position: fixed;
+	top: 8.7%;
+	left: 13.6%;
+	width: 75.5%;
+	height: 62.8%;
+}
+.border4{
+	position: fixed;
+	top: 57.5%;
+	left: 14.2%;
+	width: 68%;
+	height: 12%;
+}
+.border4Title{
+	position: fixed;
+	top: 62%;
+	left: 34.1%;
+	font-family: "迷你简魏碑";
+	font-size: 4.2vw;
+}
+.border5{
+	position: fixed;
+	top: 67%;
+	left: 14.2%;
+	width: 68%;
+	height: 12%;
+}
+.border5Title{
+	position: fixed;
+	top: 71.5%;
+	left: 34.1%;
+	font-family: "迷你简魏碑";
+	font-size: 4.2vw;
+}
+.border6{
+	position: fixed;
+	top: 77.5%;
+	left: 14.2%;
+	width: 68%;
+	height: 12%;
+}
+.border6Title{
+	position: fixed;
+	top: 82%;
+	left: 33.3%;
+	font-family: "迷你简魏碑";
+	font-size: 4.2vw;
+}
+.border7{
+	position: fixed;
+	top: 8.1%;
+	left: 8.1%;
+	width: 84.1%;
+	height: 47%;
+	border:1px solid darkslategray;
+    border-radius:30px;
+}
+.border7Content{
+	position: fixed;
+	top: 10%;
+	left: 12%;
+	font-family: "迷你简魏碑";
+	font-size: 4.3vw;
+	line-height: 3.8vh;
+	text-indent: 8.8vw;
+}
+.border8{
+	position: fixed;
+	top: 7.3%;
+	left: 8.1%;
+	width: 84.1%;
+	height: 39.7%;
+	border:1px solid darkslategray;
+    border-radius:30px;
+    background-color: #ffffff;
+}
+.border8Content{
+	position: fixed;
+	top: 10.7%;
+	left: 12.3%;
+	font-family: "迷你简魏碑";
+	font-size: 4.5vw;
+	line-height: 4.8vh;
+	text-indent: 9vw;
+}
+.border9{
+	position: fixed;
+	top: 52%;
+	left: 11%;
+	width: 74.3%;
+	height: 19%;
+}
+.border9Title{
+	position: fixed;
+	top: 58.5%;
+	left: 33.1%;
+	font-family: "迷你简魏碑";
+	font-size: 4.5vw;
+}
+.border10{
+	position: fixed;
+	top: 7%;
+	left: 8.1%;
+	width: 84.1%;
+	height: 48%;
+	border:1px solid darkslategray;
+    border-radius:30px;
+    background-color: #ffffff;
+}
+.border10Content{
+	position: fixed;
+	top: 8.5%;
+	left:13%;
+	font-family: "迷你简魏碑";
+	font-size: 4.3vw;
+	line-height: 3.8vh;
+	text-indent: 8.5vw;
+}
+.border11{
+	position: fixed;
+	top: 57.5%;
+	left: 14.2%;
+	width: 68%;
+	height: 14%;
+}
+.border11Title{
+	position: fixed;
+	top: 62.9%;
+	left: 36.7%;
+	font-family: "迷你简魏碑";
+	font-size: 4.5vw;
+}
+.border12{
+	position: fixed;
+	top: 67%;
+	left: 14.2%;
+	width: 68%;
+	height: 14%;
+}
+.border12Title{
+	position: fixed;
+	top: 72.5%;
+	left: 29.8%;
+	font-family: "迷你简魏碑";
+	font-size: 4.5vw;
+}
+.border13{
+	position: fixed;
+	top: 77.5%;
+	left: 14.2%;
+	width: 68%;
+	height: 14%;
+}
+.border13Title{
+	position: fixed;
+	top: 82.8%;
+	left: 27.5%;
+	font-family: "迷你简魏碑";
+	font-size: 4.4vw;
+}
+.border14{
+	position: fixed;
+	top: 7.4%;
+	left: 8.1%;
+	width: 84.2%;
+	height: 55.7%;
+	border:1px solid darkslategray;
+    border-radius:30px;
+	background: #fcfcfc;
+	opacity: 0.8;
+}
+.border14Content{
+	position: fixed;
+	top: 9.2%;
+	left:11%;
+	font-family: "迷你简魏碑";
+	font-size: 4.3vw;
+	line-height: 3.8vh;
+	text-indent: 8.8vw;
+}
+.border15{
+	position: fixed;
+	top: 68.5%;
+	left: 15.2%;
+	width: 68%;
+	height: 14%;
+}
+.border15Title{
+	position: fixed;
+	top: 74%;
+	left: 30.2%;
+	font-family: "迷你简魏碑";
+	font-size: 4.7vw;
+}
+.button{
+	position: fixed;
+	top: 79.7%;
+	left:40.6%;
+	width: 17.7%;
+	height:10.2%;
+}
+.buttonContent2{
+	position: fixed;
+	top: 7%;
+	left:25.8%;
+	width: 55.6%;
+	height:65.7%;
+}
+.buttonTitle1{
+	position: fixed;
+	top: 80.3%;
+	left:32.7%;
+	width: 32.3%;
+	height:7%;
+}
+.border16{
+	position: fixed;
+	top: 8.1%;
+	left: 8.1%;
+	width: 83.8%;
+	height: 46.2%;
+	border:1px solid darkslategray;
+    border-radius:30px;
+	background-color: #fcfcfc;
+}
+.border16Content{
+	position: fixed;
+	top: 10.4%;
+	left:11%;
+	font-family: "迷你简魏碑";
+	font-size: 4.6vw;
+	line-height: 4.3vh;
+	text-indent:9.2vw;
+}
+.border17{
+	position: fixed;
+	top: 57.5%;
+	left:14.4%;
+	width: 67.8%;
+	height: 14%;
+}
+.border17Title{
+	position: fixed;
+	top: 62.9%;
+	left: 40.9%;
+	font-family: "迷你简魏碑";
+	font-size: 4.4vw;
+}
+}
+.border18{
+	position: fixed;
+	top: 67%;
+	left:14.4%;
+	width: 67.8%;
+	height: 14%;
+}
+.border18Title{
+	position: fixed;
+	top: 72.3%;
+	left: 45.6%;
+	font-family: "迷你简魏碑";
+	font-size: 4.4vw;
+}
+}
+.border19{
+	position: fixed;
+	top: 76.5%;
+	left:14.4%;
+	width: 67.8%;
+	height: 14%;
+}
+.border19Title{
+	position: fixed;
+	top: 82%;
+	left: 45.6%;
+	font-family: "迷你简魏碑";
+	font-size: 4.4vw;
+}
+.border20{
+	position: fixed;
+	top: 7.3%;
+	left: 8.1%;
+	width: 84.2%;
+	height: 39.6%;
+	border:1px solid darkslategray;
+    border-radius:30px;
+	background-color: #fcfcfc;
+}
+.border20Content{
+	position: fixed;
+	top: 12%;
+	left:10.5%;
+	font-family: "迷你简魏碑";
+	font-size: 5.4vw;
+	line-height: 6vh;
+	text-indent:10.8vw;
+}
+.border21{
+	position: fixed;
+	top: 52%;
+	left:12%;
+	width: 73.9%;
+	height: 20%;
+}
+.border21Title{
+	position: fixed;
+	top: 58.7%;
+	left: 33.5%;
+	font-family: "迷你简魏碑";
+	font-size: 4.4vw;
+}
+.border22{
+	position: fixed;
+	top: 12%;
+	left: 8.1%;
+	width: 84.2%;
+	height: 44.3%;
+	border:1px solid darkslategray;
+    border-radius:30px;
+	background-color: #fcfcfc;
+}
+.border22Content1{
+	position: fixed;
+	top: 13%;
+	left:11.1%;
+	font-family: "迷你简魏碑";
+	font-size: 4.4vw;
+	line-height: 3.8vh;
+	text-indent:9vw;
+}
+.border22Content2{
+	position: fixed;
+	top: 51%;
+	left:11.1%;
+	font-family: "迷你简魏碑";
+	font-size: 4.4vw;
+	text-indent:12vw;
+}
+.border23{
+	position: fixed;
+	top: 62.2%;
+	left:12%;
+	width: 67.7%;
+	height: 14%;
+}
+.border23Title{
+	position: fixed;
+	top: 67.5%;
+	left: 42%;
+	font-family: "迷你简魏碑";
+	font-size: 2.8vh;
+}
+.border24{
+	position: fixed;
+	top: 8.5%;
+	left:26%;
+	width: 64%;
+	height: 30%;
+}
+.final{
+	position: fixed;
+	top: 15.5%;
+	left:20.2%;
+	width: 58.6%;
+	height: 17.3%;
+}
+.jieyu{
+	position: fixed;
+	top: 43%;
+	left:39.7%;
+	width: 22%;
+	height: 33%;
+}
+.border25{
+	position: fixed;
+	top: 87.1%;
+	left:6.3%;
+	width: 37.5%;
+	height: 7.1%;
+}
